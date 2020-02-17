@@ -1,0 +1,34 @@
+.container td{
+    border: 5px;
+    border-color: black;
+    border-style: groove;
+    border-collapse: collapse;
+    border-radius: 4.5em;
+
+}
+.container{
+    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/339460/74e1607ffa8989f3d8bfc97143b59786cc6eb9ea.jpg");
+    color: aliceblue;
+}
+
+.apple{
+    background-color: rgb(44, 163, 44);
+}
+
+.banana{
+    background-color: darkgoldenrod;
+}
+
+.strawberry{
+
+    background-color: crimson;
+}
+
+.orange{
+    background-color: rgb(194, 138, 34);
+}
+
+.watermelon{
+
+    background-color: forestgreen;
+}
